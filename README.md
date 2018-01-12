@@ -12,4 +12,5 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 [Version 1.0.0] 2017-12-20
 1. fix errors in showing running process (20180109)
 2. add `Rename` function for formating ab1 files (20180109)
-3. improve button UI
+3. improve button UI (20180112)
+4. automatedly detect the address of 'SeqMan'(20180112)
