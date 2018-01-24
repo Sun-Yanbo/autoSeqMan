@@ -14,3 +14,4 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 2. add `Rename` function for formating ab1 files (20180109)
 3. improve button UI (20180112)
 4. automatedly detect the address of 'SeqMan'(20180112)
+5. improve `Rename` function (2018-1-24)
