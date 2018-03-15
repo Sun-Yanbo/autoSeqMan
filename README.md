@@ -9,6 +9,9 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 **Kunming Institute of Zoology, Chinese Academy of Sciences**
 
 ### Update history ###
+[Version 1.1.0] 2018-03-15
+1. add "Attach trace data" function;
+
 [Version 1.0.0] 2017-12-20
 1. fix errors in showing running process (20180109)
 2. add `Rename` function for formating ab1 files (20180109)
