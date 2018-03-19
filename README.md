@@ -18,3 +18,6 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 3. improve button UI (20180112)
 4. automatedly detect the address of 'SeqMan'(20180112)
 5. improve `Rename` function (2018-1-24)
+
+
+Donate by Wechat! [image](https://raw.githubusercontent.com/Sun-Yanbo/autoSeqMan/master/encourage.png)
