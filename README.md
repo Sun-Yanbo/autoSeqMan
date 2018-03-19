@@ -20,4 +20,4 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 5. improve `Rename` function (2018-1-24)
 
 
-Donate by Wechat! [image](https://raw.githubusercontent.com/Sun-Yanbo/autoSeqMan/master/encourage.png)
+Donate by Wechat! [image](https://raw.githubusercontent.com/Sun-Yanbo/autoSeqMan/master/encourage.jpg)
