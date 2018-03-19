@@ -20,4 +20,5 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 5. improve `Rename` function (2018-1-24)
 
 
-Donate the author ![image](https://raw.githubusercontent.com/Sun-Yanbo/autoSeqMan/master/encourage.jpg)
+### Donate the author:
+![image](https://raw.githubusercontent.com/Sun-Yanbo/autoSeqMan/master/encourage.jpg)
