@@ -11,6 +11,7 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 ### Update history ###
 [Version 1.1.0] 2018-03-15
 1. add "Attach trace data" function;
+2. improve "Attach trace data" function; (2018-3-28)
 
 [Version 1.0.0] 2017-12-20
 1. fix errors in showing running process (20180109)
