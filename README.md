@@ -9,6 +9,10 @@ With the wide application of DNA barcoding technology, more and more DNA sequenc
 **Kunming Institute of Zoology, Chinese Academy of Sciences**
 
 ### Update history ###
+[Version 1.1.1] 2018-06-01
+1. abandon the step of empty-folder checking;
+2. optimize codes, as well as GUI display;
+
 [Version 1.1.0] 2018-03-15
 1. add "Attach trace data" function;
 2. improve "Attach trace data" function; (2018-3-28)
